@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/config/table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/models/dao/file.go" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/models/dao/file_server.go" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/models/dao/user.go" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/models/dao/user_file.go" dialect="MySQL" />
+  </component>
+</project>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86ee3b12-2e66-4af0-ae66-e5f602cd9e62" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1jiIzQwKd63CWj8hLNWpcfeOxlJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$/models/dto" />
+      <recent name="$PROJECT_DIR$/middleware" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build cc-transfer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="cc-transfer" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="cc-transfer" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build cc-transfer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="75" y="286" key="#SQL_Dialects" timestamp="1604564421080">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="75" y="286" key="#SQL_Dialects/0.0.1440.900@0.0.1440.900" timestamp="1604564421080" />
+    <state x="320" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604304469763">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1604304469763" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1604648789525">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604648789525" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1604648789524">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604648789524" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1604648789524">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604648789523" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1604648789524">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604648789524" />
+    <state width="1398" height="238" key="GridCell.Tab.1.bottom" timestamp="1604648789521">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604648789521" />
+    <state width="1398" height="238" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604635318561" />
+    <state width="1398" height="238" key="GridCell.Tab.1.center" timestamp="1604648789520">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1604648789520" />
+    <state width="1398" height="238" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1604635318559" />
+    <state width="1398" height="238" key="GridCell.Tab.1.left" timestamp="1604648789520">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1604648789520" />
+    <state width="1398" height="238" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1604635318558" />
+    <state width="1398" height="238" key="GridCell.Tab.1.right" timestamp="1604648789521">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1604648789521" />
+    <state width="1398" height="238" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1604635318560" />
+    <state x="421" y="205" width="598" height="490" key="find.popup" timestamp="1604647146580">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="205" width="598" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1604647146580" />
+  </component>
+</project>
